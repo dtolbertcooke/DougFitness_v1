@@ -34,6 +34,6 @@
 
 **Goal:** an Android app that runs the program: it shows today's day, logs each exercise, times your rest, and shows history and progress.
 
-## Phase 6: Update README and release v1.0.0
+### Phase 6: Update README and release v1.0.0
 
 **Goal:** update README to reflect what project is, understand how it works, and provide evidence of it operating correctly.
