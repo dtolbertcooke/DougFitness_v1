@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.expo
+.terraform
+*.tfstate*
+BUILD_PLAN.md
+CLAUDE.md
+program.ts
