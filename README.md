@@ -1,7 +1,5 @@
 # README
 
-- The thing that actually looks bad isn't WIP code — it's WIP code with no context. A README that states status and links your BUILD_PLAN.md fixes that in five minutes
-
 ## Status
 
 - IN PROGRESS - Phase 0
