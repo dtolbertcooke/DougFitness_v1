@@ -6,4 +6,4 @@ dist
 *.tfstate*
 BUILD_PLAN.md
 CLAUDE.md
-program.ts
+program_example.ts
